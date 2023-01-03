@@ -28,7 +28,8 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT: 
-!['OUTPUT'](/Screenshot%20(63).png)
+!['OUTPUT']![Screenshot (77)](https://user-images.githubusercontent.com/118423842/210342625-d669869a-c31b-46f1-a97e-eb98de2ae2f8.png)
+
 
 
 ### RESULT:
